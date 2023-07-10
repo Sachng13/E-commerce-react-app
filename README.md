@@ -4,10 +4,38 @@
 <ul>
   <li>
     Navbar
-    <ul><li>Show cart items count
+    <ul><li>Showing cart items count
 </li>
-    <li>Show relevant navigation links</li></ul>
+    <li>Showing relevant navigation links</li></ul>
   </li>
+  <li>
+    All products page
+    <ul>
+      <li>
+        Showing list of products from the API 
+      </li>
+      <li>
+        Each product is editable by clicking on the “pencil” button. And we can edit that product inline
+      </li>
+      <li>
+        Each product is deletable, on clicking of the delete button we can delete the product
+      </li>
+      <li>Clicking on sort button it sort by “price” and On clicking the cross button it remove the sort.
+</li>
+      <li>There is a button to add a product to cart</li>
+    </ul>
+  </li>
+  <li>Create page
+     <ul>
+    <li>On clicking of the Add button it will add the product</li>
+  </ul>  
+  </li>
+  <li>Cart page
+  <ul>
+    <li>Showing all the items in the cart</li>
+  </ul>
+  </li>
+ 
 </ul>
 
 
