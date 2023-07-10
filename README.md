@@ -4,8 +4,9 @@
 <ul>
   <li>
     Navbar
-    <li>Show cart items count
+    <ul><li>Show cart items count
 </li>
+    <li>Show relevant navigation links</li></ul>
   </li>
 </ul>
 
