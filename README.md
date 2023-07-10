@@ -1,3 +1,16 @@
+<h1>E-commerce-react-app</h1>
+
+<h3>Functionality</h3>
+<ul>
+  <li>
+    Navbar
+    <li>Show cart items count
+</li>
+  </li>
+</ul>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
