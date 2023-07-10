@@ -12,7 +12,7 @@ return (
     >
       <div className="container-fluid">
         <a className="navbar-brand fs-3" href="#" style={style.navHead}>
-          E-commerce
+          BargainBazaar.com
         </a>
         <button
           className="navbar-toggler"
@@ -40,7 +40,7 @@ return (
           </ul>
           <div className="d-flex gap-5 position-relative">
             <img
-              src="https://cdn-icons-png.flaticon.com/512/4290/4290854.png"
+              src="https://cdn-icons-png.flaticon.com/128/1170/1170576.png"
               alt="error"
               width={"40rem"}
             onClick={() => navigate("/cart")}
@@ -74,10 +74,9 @@ return (
 }
 const style = {
   nav: {
-    backgroundColor: "var(--nav)",
+    backgroundColor: "#3e2659",
   },
   navHead: {
-    fontFamily: "var(--fontStyle)",
     color: "#f47289",
   },
 };
